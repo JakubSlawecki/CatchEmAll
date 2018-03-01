@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location is required to show nerby Pokemons! If you don&apos;t want to catch em all, then keep your lovely location to yourself.</string>
 </dict>
 </plist>
